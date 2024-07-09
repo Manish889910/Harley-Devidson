@@ -1,0 +1,41 @@
+/* #supermain{border-top: none;border-left: none;margin-left: -8px;}
+#main{border: 1px solid rgba(128, 128, 128, 0.579);margin-top: -7px;border-top: none;border-left: none;margin-left: -8px;background-color: rgba(135, 207, 235, 0.147);} */
+/* #image{background-image: url(assets/imgages/filmyfly.png);background-size: cover;background-repeat: no-repeat;background-position: center; height:80px; width:400px;} */
+/* ::-webkit-scrollbar{width:20px;}
+::-webkit-scrollbar-track{
+    background-color: black;
+}
+::-webkit-scrollbar-thumb {
+    background-color: aqua;
+    border-radius: 10px;
+} */
+ /* #searchbar{ background-image: url(assets/imgages/searchbar.png);background-size: 300px 200px;background-repeat: no-repeat;background-position: center;height: 25px;width: 1231px;border: 1px dashed white;background-color:#3b6eaa;margin-top: 3px;}
+ #text{color: #3b6eaa;margin-top: 5px;margin-bottom: 5px;border: 1px solid white;width: 1231px;background-color: rgba(128, 128, 128, 0.136);height: 25px; margin-top: 0px;margin-bottom: 0px;padding-top: 7px;}
+ #download{border: 1px solid rgba(128, 128, 128, 0.726) ;color: #3b6eaa ;height: 25px;padding-top: 7px;background-color:rgba(128, 128, 128, 0.136);
+  */
+  #topborder{background-color: black;margin: -9px;height: 50px;color: white;padding-left: 800px;font-size: 14px;padding-top: 1px;padding-bottom: 2px;}
+  #img{margin-top: 20px;margin-left: 100px;width: 220px;}
+  #bik{margin-left: 210px;margin-top: -43px;font-size: 18px;}
+  #bik2{margin-left: 290px;margin-top: -21px;font-size: 18px;}
+  #img2{margin-top: 20px;}
+  #name{font-size: 30px;margin-left: 870px;margin-top: -370px;font-family: Arial black;}
+  #rate{margin-left: 870px;font-size: 20px;font-family:Arial black;}
+  #img3{margin-top: 100px;height: 650px;}
+
+  #keyfeature{font-family: Arial black;;margin-top: 60px;font-size: 45px;}
+  #key{margin-top:6px;width: 250px;}
+  #key2{margin-top:6px;width: 250px;margin-left: 310px;margin-top: -486px;}
+  #key3{margin-top:6px;width: 250px;margin-left: 620px;margin-top: -486px;}
+  #key4{margin-top:6px;width: 250px;margin-left: 930px;margin-top: -522px;}
+  #img4{margin-top: 240px;}
+  #glance{font-family: Arial black;;margin-top: 60px;font-size: 45px;}
+  #para{width: 600px;line-height: 1.5;}
+  #table{border: 1px solid rgba(128, 128, 128, 0.415);border-collapse: collapse;}
+  #img5 , #img6 , #img7, #img8{width: 278px;height: 90px;margin-top: 15px;}
+  td{border: 1px solid rgba(128, 128, 128, 0.314);padding-left: 20px;}
+  #riding{margin-left: 80px;margin-top: -48px;}
+  #ex{font-family: arial black; font-size: 35px;}
+  a{text-decoration: none;color: white;}
+
+  
+
